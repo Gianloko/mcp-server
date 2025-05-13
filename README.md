@@ -1,4 +1,4 @@
-# Salesforce MCP Demo
+# Salesforce MCP Server
 
 This repository shows **end‑to‑end plumbing between a Salesforce org and an LLM agent** using the [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/spec).
 
