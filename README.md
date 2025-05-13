@@ -139,4 +139,4 @@ Here are some Leads:
 ---
 
 \## License
-MIT © 2025 Your Name / Your Company
+MIT © 2025 Gianluca Tessitore / Atlantic Technologies
