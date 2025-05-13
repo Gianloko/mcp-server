@@ -138,5 +138,10 @@ Here are some Leads:
 
 ---
 
+\## Model Context Protocol details
+- (https://modelcontextprotocol.io/docs/concepts/tools)
+
+---
+
 \## License
 MIT © 2025 Gianluca Tessitore / Atlantic Technologies
