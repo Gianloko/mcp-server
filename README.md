@@ -96,7 +96,7 @@ $ pip install -r requirements.txt
 # 4 · copy env file & add secrets
 $ cp .env.example .env && nano .env
 
-# 5 · start the MCP client (this will start also mcp-server as a subprocess
+# 5 · start the MCP client (this will start also mcp-server as a subprocess)
 $ py mcp-agent.py
 ```
 
